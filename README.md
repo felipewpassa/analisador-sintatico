@@ -3,7 +3,7 @@
 Implementação de um analisador sintático para disciplina de compiladores. 
 
 ## Executar o analisador
-Obs: Através do link abaixo, é necessário fazer o download.
+Obs: Através do link abaixo, não é necessário fazer o download.
 
 ```bash
 https://felipewpassa.github.io/analisador-sintatico/
